@@ -1,3 +1,3 @@
-# SpbscapeCore
+# Spbscape Core
 
-A description of this package.
+A model package for Spbscape application.
